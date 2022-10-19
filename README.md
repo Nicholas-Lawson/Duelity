@@ -25,7 +25,7 @@ UI components of game
 
 ==Rules button clicked==
 
-Rules
+--Rules--
 
 Shows simple description of rules
 
