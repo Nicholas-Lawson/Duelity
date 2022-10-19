@@ -7,9 +7,13 @@ environment while enjoying a sniper fight (Ideally). Players will be placed into
 can ready up to start a match. Once you eliminate your target, you win the game so it'll be very important to not 
 allow your opponent to find you first.
 
---------------------------------------------------------------1
+--------------------------------------------------------------
 
 UI components of game
+
+--------------------------------------------------------------
+
+-----------------------1
 
 --Menu screen of game--
 
@@ -19,37 +23,37 @@ UI components of game
 
 -----------------------2
 
-<Rules button clicked>
+==Rules button clicked==
 
---Rules--
+Rules
 
-<Shows simple description of rules>
+Shows simple description of rules
 
 -Back-
 
 ------------------------3
 
-<Start button clicked>
+==Start button clicked==
 
 --Enter Temporary Username--
 
-<Input box for username>
+Input box for username
 
 -Submit- 
 -Back-
 
 -------------------------4
 
-<Submit button clicked>
+==Submit button clicked==
 
 --Lobby screen--
 
-<Player one display username><Status of player one>
+Player one display username | Status of player one
 -Ready Up-
 
-<Player two display username><Status of player two>
+Player two display username | Status of player two
 -Ready Up-
 
 --------------------------
 
-Game Loads
+==Game Loads==
