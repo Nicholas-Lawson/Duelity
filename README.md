@@ -44,10 +44,10 @@ UI components of game
 
 --Lobby screen--
 
-<Player one's display username><Status of player one>
+<Player one display username><Status of player one>
 -Ready Up-
 
-<Player two's display username><Status of player two>
+<Player two display username><Status of player two>
 -Ready Up-
 
 --------------------------
